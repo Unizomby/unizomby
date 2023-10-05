@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently supervised learning machine learning in python.
+🌱 I’m currently learning supervised machine learning in python.
 <!--
 **Unizomby/unizomby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
